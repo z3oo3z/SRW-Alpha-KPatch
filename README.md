@@ -49,6 +49,7 @@ c:/patch폴더 내부
  B. 수동패치
 
       xdeltaui.exe를 사용하여 직접 패치하십시오
+<img width="326" height="213" alt="image" src="https://github.com/user-attachments/assets/b90babed-4b51-4278-96a6-51a209d24a9c" />
 
 
 ---------------------------------------------------------------------------
